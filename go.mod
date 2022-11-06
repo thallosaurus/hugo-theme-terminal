@@ -1,3 +1,3 @@
-module github.com/panr/hugo-theme-terminal
+module github.com/thallosaurus/hugo-theme-terminal
 
 go 1.19
